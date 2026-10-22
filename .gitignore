@@ -1,0 +1,16 @@
+# Ignore virtual environment
+venv/
+.venv/
+
+# Ignore Python cache & Jupyter checkpoints
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore heavy model weights & cached logits (we will generate these locally)
+*.pt
+*.pth
+*.bin
+*.safetensors
+data/
+logits_cache/
+wandb/
