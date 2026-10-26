@@ -1,0 +1,1 @@
+The quick brown fox jumps over the lazy dog. Knowledge distillation allows a smaller student model to learn from a larger teacher model by matching probability distributions.
